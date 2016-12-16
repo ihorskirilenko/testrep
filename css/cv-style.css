@@ -3,6 +3,7 @@ body {
 	background-color: #dad4ff;
 }
 form {
+	width: 300px;
 	margin: 0 auto;
 }
 h1 {
@@ -23,6 +24,10 @@ b, a {
 }
 ul {
 	margin: 1px auto;
+}
+label, input {
+	font: 80% verdana;
+	margin: 0 auto;
 }
 #par_header1 {
 	font-weight: bold;
@@ -47,6 +52,9 @@ ul {
 .par_cell1 {
 	width: 200px;
 	vertical-align: top;
+}
+.par_cell2 {
+	width: 100px;
 }
 .par_table {
 	font: 100% verdana;
