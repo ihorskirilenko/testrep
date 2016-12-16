@@ -2,6 +2,9 @@ body {
 	text-align: justify;
 	background-color: #dad4ff;
 }
+form {
+	margin: 0 auto;
+}
 h1 {
 	font: 150% verdana;
 	font-weight: bold;
@@ -13,7 +16,7 @@ h2 {
 	font-weight: bold;
 	margin: 0px;
 }
-b {
+b, a {
 	font: 100% verdana;
 	font-weight: bold;
 	margin: 1px;
